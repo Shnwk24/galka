@@ -1,0 +1,11 @@
+{
+    "name": "lemom/galka",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Lemom\\Galka\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
