@@ -1,6 +1,7 @@
 {
     "name": "lemom/galka",
     "type": "project",
+    "description": "",
     "autoload": {
         "psr-4": {
             "Lemom\\Galka\\": "src/"
