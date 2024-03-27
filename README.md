@@ -1,1 +1,1 @@
-The purpose of this project is to get information conveniently. Additional features are - unique search, filter, sorting
+This project is to get information conveniently. Additional features are - unique search, filter, sorting
