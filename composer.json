@@ -1,7 +1,7 @@
 {
     "name": "lemom/galka",
     "type": "project",
-    "description": "",
+    "description": "php -> golang",
     "autoload": {
         "psr-4": {
             "Lemom\\Galka\\": "src/"
