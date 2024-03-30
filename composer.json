@@ -1,7 +1,7 @@
 {
-    "name": "k7tsHuf/galka",
+    "name": "k7tsHuf/galka-project",
     "type": "project",
-    "description": "php -> golang",
+    "description": "",
     "autoload": {
         "psr-4": {
             "Lemom\\Galka\\": "src/"
