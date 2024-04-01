@@ -1,7 +1,7 @@
 {
     "name": "k7tsHuf/galka-project",
     "type": "project",
-    "description": "",
+    "description": "Implementation of service for automatic addition of docks for testing",
     "autoload": {
         "psr-4": {
             "Lemom\\Galka\\": "src/"
