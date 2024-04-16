@@ -1,5 +1,5 @@
 {
-    "name": "k7tsHuf/galka-project",
+    "name": "k7tsHuf/gulka-project",
     "type": "project",
     "description": "Implementation of service for automatic addition of docks for testing",
     "autoload": {
